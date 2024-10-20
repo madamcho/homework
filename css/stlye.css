@@ -1,16 +1,16 @@
-@import "/reset.css";
+@import "reset.css";
 @import "";
 @import "";
 @import "";
 @import "";
 
 /* component  */
-@import "/component/main-header.css";
-@import "/component/nav.css";
+@import "component/main-header.css";
+@import "component/nav.css";
 @import "";
 
 /* screen  */
-@import "/screen/main-screen.css";
+@import "screen/main-screen.css";
 @import "";
 @import "";
 
