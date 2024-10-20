@@ -1,18 +1,11 @@
 @import "reset.css";
-@import "";
-@import "";
-@import "";
-@import "";
 
 /* component  */
 @import "component/main-header.css";
 @import "component/nav.css";
-@import "";
 
 /* screen  */
 @import "screen/main-screen.css";
-@import "";
-@import "";
 
 .text-deco {
   color: rgba(0, 0, 0, 0.5);
